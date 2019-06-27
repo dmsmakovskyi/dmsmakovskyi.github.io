@@ -1,2 +1,2 @@
-# dmsmakovskyi.github.io
+# Dmytro Smakovskyi
 working area
